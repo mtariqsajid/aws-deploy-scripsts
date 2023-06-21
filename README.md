@@ -1,1 +1,1 @@
-# aws_deploy_scripsts
+# script for deployment of AWS EC2
